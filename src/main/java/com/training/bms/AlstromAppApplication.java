@@ -10,5 +10,7 @@ public class AlstromAppApplication {
 		SpringApplication.run(AlstromAppApplication.class, args);
 		System.out.println("Alstrom app started on friday");
 		System.out.println("Nihal made changes");
+		
+		
 	}
 }
