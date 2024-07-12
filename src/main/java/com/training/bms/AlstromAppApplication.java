@@ -9,5 +9,6 @@ public class AlstromAppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AlstromAppApplication.class, args);
 		System.out.println("Alstrom app started on friday");
+		System.out.println("Nihal made changes");
 	}
 }
